@@ -1,4 +1,7 @@
 # Algorand project
+Under this project we have implemented Image generation Using OpenAI and OpenCV. and Also we have set up the environment for Algorand back end and front end in Beaker and React
+
+## 
 
 This starter full stack project has been generated using AlgoKit. See below for default getting started instructions.
 
