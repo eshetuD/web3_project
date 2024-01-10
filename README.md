@@ -1,12 +1,14 @@
 # Algorand project
-Under this project we have implemented Image generation Using OpenAI and OpenCV. and Also we have set up the environment for Algorand back end and front end in Beaker and React
+Under this project we have implemented Image generation Using OpenAI and OpenCV. and Also we have set up the environment for Algorand back end and front end in Beaker and React using AlgoKit
 
 ## Image Creating Using OpenAi
 I am able to generate image using openai after several prompt modification. 
 
 ![certif](./Certificate_gen/template/New.png)
 
-is the image I have generated with openai. Eventhough the image created by open ai is not satisfying but it is promising.
+is the image I have generated with openai. Eventhough the image created by open ai is not satisfying but it is promising. So I have decided to create my own template for certificate to be generated for 10 Academy graduate. The one I made with Cancas is:
+
+![certif](./Certificate_gen/template/template.png)
 
 This starter full stack project has been generated using AlgoKit. See below for default getting started instructions.
 
