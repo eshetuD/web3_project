@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 0.6.0
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: deresu2023@gmail.com
+author_name: Eshetu
+cloud_provider: none
+contract_name: hello_world
+deployment_language: python
+ide_vscode: true
+preset_name: production
+project_name: Algo_Demo_project
+python_linter: ruff
+use_dispenser: false
+use_github_actions: true
+use_python_black: true
+use_python_mypy: true
+use_python_pip_audit: true
+use_python_pytest: true
+
