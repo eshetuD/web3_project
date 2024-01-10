@@ -4,7 +4,9 @@ Under this project we have implemented Image generation Using OpenAI and OpenCV.
 ## Image Creating Using OpenAi
 I am able to generate image using openai after several prompt modification. 
 
-The image created by open ai is not satisfying 
+./Certificate/output/Neww.png
+
+is the image I have generated with openai. Eventhough the image created by open ai is not satisfying but it is promising.
 
 This starter full stack project has been generated using AlgoKit. See below for default getting started instructions.
 
