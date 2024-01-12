@@ -26,7 +26,8 @@ response = openai.Image.create(
   model="dall-e-3",
   prompt="""
           generate an image with small size logo on top right corner leave blank space for logo
-          font family should be 'Times New Roman' font size has to be '16 px', background color is white with thin border color red, there should be space for Name signature and date 
+          font family should be 'Times New Roman' font size has to be '16 px', background color is white with thin border color red,
+          there should be space for Name signature and date
           leave blank space for document body, do not place sample stamp on the image
           be aware that is has to be readable by human that means it has to be in ENGLISH
           No stamp, and No signature know that there is only signature place, do not complicate the image, it has to
