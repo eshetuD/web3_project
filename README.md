@@ -12,7 +12,7 @@ is the image I have generated with openai. Eventhough the image created by open 
 
 With the help of OpenCv library I managed to gemerate Dynamic Certificate for every graduate and the final version will look like.
 
-![certif](./Certificate_gen/output/Mr Eshetu Deresu.png) 
+![certif](./Certificate_gen/output/eshetu.png) 
 
 
 This starter full stack project has been generated using AlgoKit. See below for default getting started instructions.
